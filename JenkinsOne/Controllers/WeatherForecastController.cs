@@ -8,7 +8,7 @@ namespace JenkinsOne.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "hello"
+            "hello","hi"
             // "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
