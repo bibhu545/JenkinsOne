@@ -22,7 +22,7 @@ namespace JenkinsOne.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public string Get()
         {
-            return "Hello world";
+            return "Hello world second";
             // return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             // {
             //     Date = DateTime.Now.AddDays(index),
