@@ -21,7 +21,7 @@ namespace JenkinsOne.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public string Get()
         {
-            return "First CI/CD";
+            return "hello";
         }
     }
 }
